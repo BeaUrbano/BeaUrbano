@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1148" height="360" viewBox="0 0 1148 360" role="img" aria-labelledby="title desc">
 
 <title id="title">Tecnologias em órbita</title>
 
 <desc id="desc">
-Familiaridade autoavaliada: Python 60%, Java 20%, JavaScript 30%, HTML 50%, CSS 40%, SQL 15%.
+Familiaridade autoavaliada: Python 50%, Java 20%, JavaScript 30%, HTML 50%, CSS 40%, SQL 50%, C# 50%.
 Cada círculo representa uma escala independente de zero a cem.
 </desc>
 
@@ -19,16 +19,18 @@ Cada círculo representa uma escala independente de zero a cem.
     </linearGradient>
 </defs>
 
+<!-- FUNDO -->
 <rect
     x="1"
     y="1"
-    width="998"
+    width="1146"
     height="358"
     rx="24"
     fill="url(#bg)"
     stroke="#204258"
 />
 
+<!-- CABEÇALHO -->
 <path
     d="M32 40h28"
     stroke="#2dd4bf"
@@ -43,7 +45,7 @@ Cada círculo representa uma escala independente de zero a cem.
     font-family="Arial,sans-serif"
     font-size="13"
     letter-spacing="3">
-    THIAGO R. SANTA ROSA / DEV JOURNEY
+    BEAURBANO / DEV JOURNEY
 </text>
 
 <text
@@ -66,52 +68,36 @@ Cada círculo representa uma escala independente de zero a cem.
 </text>
 
 
-<!-- PYTHON -->
+<!-- PYTHON 50% -->
 <g>
-    <circle
-        cx="90"
-        cy="208"
-        r="60"
+    <circle cx="90" cy="208" r="60"
         fill="none"
         stroke="#1a3a50"
-        stroke-dasharray="2 9"
-    />
+        stroke-dasharray="2 9"/>
 
-    <circle
-        cx="90"
-        cy="208"
-        r="48"
+    <circle cx="90" cy="208" r="48"
         fill="#0a1c2c"
         stroke="#19374b"
-        stroke-width="9"
-    />
+        stroke-width="9"/>
 
-    <circle
-        cx="90"
-        cy="208"
-        r="48"
+    <circle cx="90" cy="208" r="48"
         fill="none"
         stroke="url(#arc)"
         stroke-width="9"
         stroke-linecap="round"
-        stroke-dasharray="180.956 301.593"
-        transform="rotate(-90 90 208)"
-    />
+        stroke-dasharray="150.796 301.593"
+        transform="rotate(-90 90 208)"/>
 
-    <text
-        x="90"
-        y="218"
+    <text x="90" y="218"
         text-anchor="middle"
         fill="#f1fbff"
         font-family="Arial,sans-serif"
         font-size="28"
         font-weight="700">
-        60<tspan font-size="14" fill="#82a9bf">%</tspan>
+        50<tspan font-size="14" fill="#82a9bf">%</tspan>
     </text>
 
-    <text
-        x="90"
-        y="297"
+    <text x="90" y="297"
         text-anchor="middle"
         fill="#d9edf9"
         font-family="Arial,sans-serif"
@@ -122,41 +108,27 @@ Cada círculo representa uma escala independente de zero a cem.
 </g>
 
 
-<!-- JAVA -->
+<!-- JAVA 20% -->
 <g>
-    <circle
-        cx="254"
-        cy="208"
-        r="60"
+    <circle cx="250" cy="208" r="60"
         fill="none"
         stroke="#1a3a50"
-        stroke-dasharray="2 9"
-    />
+        stroke-dasharray="2 9"/>
 
-    <circle
-        cx="254"
-        cy="208"
-        r="48"
+    <circle cx="250" cy="208" r="48"
         fill="#0a1c2c"
         stroke="#19374b"
-        stroke-width="9"
-    />
+        stroke-width="9"/>
 
-    <circle
-        cx="254"
-        cy="208"
-        r="48"
+    <circle cx="250" cy="208" r="48"
         fill="none"
         stroke="url(#arc)"
         stroke-width="9"
         stroke-linecap="round"
         stroke-dasharray="60.319 301.593"
-        transform="rotate(-90 254 208)"
-    />
+        transform="rotate(-90 250 208)"/>
 
-    <text
-        x="254"
-        y="218"
+    <text x="250" y="218"
         text-anchor="middle"
         fill="#f1fbff"
         font-family="Arial,sans-serif"
@@ -165,9 +137,7 @@ Cada círculo representa uma escala independente de zero a cem.
         20<tspan font-size="14" fill="#82a9bf">%</tspan>
     </text>
 
-    <text
-        x="254"
-        y="297"
+    <text x="250" y="297"
         text-anchor="middle"
         fill="#d9edf9"
         font-family="Arial,sans-serif"
@@ -178,41 +148,27 @@ Cada círculo representa uma escala independente de zero a cem.
 </g>
 
 
-<!-- JAVASCRIPT -->
+<!-- JAVASCRIPT 30% -->
 <g>
-    <circle
-        cx="418"
-        cy="208"
-        r="60"
+    <circle cx="410" cy="208" r="60"
         fill="none"
         stroke="#1a3a50"
-        stroke-dasharray="2 9"
-    />
+        stroke-dasharray="2 9"/>
 
-    <circle
-        cx="418"
-        cy="208"
-        r="48"
+    <circle cx="410" cy="208" r="48"
         fill="#0a1c2c"
         stroke="#19374b"
-        stroke-width="9"
-    />
+        stroke-width="9"/>
 
-    <circle
-        cx="418"
-        cy="208"
-        r="48"
+    <circle cx="410" cy="208" r="48"
         fill="none"
         stroke="url(#arc)"
         stroke-width="9"
         stroke-linecap="round"
         stroke-dasharray="90.478 301.593"
-        transform="rotate(-90 418 208)"
-    />
+        transform="rotate(-90 410 208)"/>
 
-    <text
-        x="418"
-        y="218"
+    <text x="410" y="218"
         text-anchor="middle"
         fill="#f1fbff"
         font-family="Arial,sans-serif"
@@ -221,9 +177,7 @@ Cada círculo representa uma escala independente de zero a cem.
         30<tspan font-size="14" fill="#82a9bf">%</tspan>
     </text>
 
-    <text
-        x="418"
-        y="297"
+    <text x="410" y="297"
         text-anchor="middle"
         fill="#d9edf9"
         font-family="Arial,sans-serif"
@@ -234,41 +188,27 @@ Cada círculo representa uma escala independente de zero a cem.
 </g>
 
 
-<!-- HTML -->
+<!-- HTML 50% -->
 <g>
-    <circle
-        cx="582"
-        cy="208"
-        r="60"
+    <circle cx="570" cy="208" r="60"
         fill="none"
         stroke="#1a3a50"
-        stroke-dasharray="2 9"
-    />
+        stroke-dasharray="2 9"/>
 
-    <circle
-        cx="582"
-        cy="208"
-        r="48"
+    <circle cx="570" cy="208" r="48"
         fill="#0a1c2c"
         stroke="#19374b"
-        stroke-width="9"
-    />
+        stroke-width="9"/>
 
-    <circle
-        cx="582"
-        cy="208"
-        r="48"
+    <circle cx="570" cy="208" r="48"
         fill="none"
         stroke="url(#arc)"
         stroke-width="9"
         stroke-linecap="round"
         stroke-dasharray="150.796 301.593"
-        transform="rotate(-90 582 208)"
-    />
+        transform="rotate(-90 570 208)"/>
 
-    <text
-        x="582"
-        y="218"
+    <text x="570" y="218"
         text-anchor="middle"
         fill="#f1fbff"
         font-family="Arial,sans-serif"
@@ -277,9 +217,7 @@ Cada círculo representa uma escala independente de zero a cem.
         50<tspan font-size="14" fill="#82a9bf">%</tspan>
     </text>
 
-    <text
-        x="582"
-        y="297"
+    <text x="570" y="297"
         text-anchor="middle"
         fill="#d9edf9"
         font-family="Arial,sans-serif"
@@ -290,41 +228,27 @@ Cada círculo representa uma escala independente de zero a cem.
 </g>
 
 
-<!-- CSS -->
+<!-- CSS 40% -->
 <g>
-    <circle
-        cx="746"
-        cy="208"
-        r="60"
+    <circle cx="730" cy="208" r="60"
         fill="none"
         stroke="#1a3a50"
-        stroke-dasharray="2 9"
-    />
+        stroke-dasharray="2 9"/>
 
-    <circle
-        cx="746"
-        cy="208"
-        r="48"
+    <circle cx="730" cy="208" r="48"
         fill="#0a1c2c"
         stroke="#19374b"
-        stroke-width="9"
-    />
+        stroke-width="9"/>
 
-    <circle
-        cx="746"
-        cy="208"
-        r="48"
+    <circle cx="730" cy="208" r="48"
         fill="none"
         stroke="url(#arc)"
         stroke-width="9"
         stroke-linecap="round"
         stroke-dasharray="120.637 301.593"
-        transform="rotate(-90 746 208)"
-    />
+        transform="rotate(-90 730 208)"/>
 
-    <text
-        x="746"
-        y="218"
+    <text x="730" y="218"
         text-anchor="middle"
         fill="#f1fbff"
         font-family="Arial,sans-serif"
@@ -333,9 +257,7 @@ Cada círculo representa uma escala independente de zero a cem.
         40<tspan font-size="14" fill="#82a9bf">%</tspan>
     </text>
 
-    <text
-        x="746"
-        y="297"
+    <text x="730" y="297"
         text-anchor="middle"
         fill="#d9edf9"
         font-family="Arial,sans-serif"
@@ -346,52 +268,36 @@ Cada círculo representa uma escala independente de zero a cem.
 </g>
 
 
-<!-- SQL -->
+<!-- SQL 50% -->
 <g>
-    <circle
-        cx="910"
-        cy="208"
-        r="60"
+    <circle cx="890" cy="208" r="60"
         fill="none"
         stroke="#1a3a50"
-        stroke-dasharray="2 9"
-    />
+        stroke-dasharray="2 9"/>
 
-    <circle
-        cx="910"
-        cy="208"
-        r="48"
+    <circle cx="890" cy="208" r="48"
         fill="#0a1c2c"
         stroke="#19374b"
-        stroke-width="9"
-    />
+        stroke-width="9"/>
 
-    <circle
-        cx="910"
-        cy="208"
-        r="48"
+    <circle cx="890" cy="208" r="48"
         fill="none"
         stroke="url(#arc)"
         stroke-width="9"
         stroke-linecap="round"
-        stroke-dasharray="45.239 301.593"
-        transform="rotate(-90 910 208)"
-    />
+        stroke-dasharray="150.796 301.593"
+        transform="rotate(-90 890 208)"/>
 
-    <text
-        x="910"
-        y="218"
+    <text x="890" y="218"
         text-anchor="middle"
         fill="#f1fbff"
         font-family="Arial,sans-serif"
         font-size="28"
         font-weight="700">
-        15<tspan font-size="14" fill="#82a9bf">%</tspan>
+        50<tspan font-size="14" fill="#82a9bf">%</tspan>
     </text>
 
-    <text
-        x="910"
-        y="297"
+    <text x="890" y="297"
         text-anchor="middle"
         fill="#d9edf9"
         font-family="Arial,sans-serif"
@@ -401,6 +307,45 @@ Cada círculo representa uma escala independente de zero a cem.
     </text>
 </g>
 
+
+<!-- C# 50% -->
+<g>
+    <circle cx="1050" cy="208" r="60"
+        fill="none"
+        stroke="#1a3a50"
+        stroke-dasharray="2 9"/>
+
+    <circle cx="1050" cy="208" r="48"
+        fill="#0a1c2c"
+        stroke="#19374b"
+        stroke-width="9"/>
+
+    <circle cx="1050" cy="208" r="48"
+        fill="none"
+        stroke="url(#arc)"
+        stroke-width="9"
+        stroke-linecap="round"
+        stroke-dasharray="150.796 301.593"
+        transform="rotate(-90 1050 208)"/>
+
+    <text x="1050" y="218"
+        text-anchor="middle"
+        fill="#f1fbff"
+        font-family="Arial,sans-serif"
+        font-size="28"
+        font-weight="700">
+        50<tspan font-size="14" fill="#82a9bf">%</tspan>
+    </text>
+
+    <text x="1050" y="297"
+        text-anchor="middle"
+        fill="#d9edf9"
+        font-family="Arial,sans-serif"
+        font-size="16"
+        font-weight="600">
+        C#
+    </text>
+</g>
 
 <text
     x="32"
@@ -412,7 +357,7 @@ Cada círculo representa uma escala independente de zero a cem.
 </text>
 
 <text
-    x="968"
+    x="1116"
     y="336"
     text-anchor="end"
     fill="#789bb2"
