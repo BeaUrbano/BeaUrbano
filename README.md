@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Bea! 👋
 
-### 🐍 Python · ☕ Java · C# · 🌐 Desenvolvimento Web
+### 🐍 Python · ☕ Java  · C# · 🌐 Desenvolvimento Web
 
 Aprendendo, praticando e transformando ideias em código.
 
