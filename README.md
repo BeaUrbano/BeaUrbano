@@ -38,7 +38,7 @@ Aprendendo, praticando e transformando ideias em código.
 
 Minha percepção atual de familiaridade com cada tecnologia — sempre em construção.
 
-![Minha evolução: Python 60%, Java 20%, JavaScript 30%, HTML 50%, CSS 40%, SQL 15%](https://github.com/Thiagordsr/Thiagordsr/raw/main/evolucao.svg)
+![Minha evolução: Python 50%, Java 20%, JavaScript 30%, HTML 50%, CSS 40%, SQL 50%, C# 50%](./evolucao.svg)
 
 <div align="center">
 
